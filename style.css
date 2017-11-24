@@ -1,0 +1,32 @@
+ h1 {
+ 	font-size:30px; 
+ 	font-family:fantasy;
+ 	text-align: center;
+  	color:red;
+  }
+
+  p {
+  	font-size:20px;
+  	font-family:fantasy;
+  	color:green;
+  	text-align: center;
+  }
+  
+  body {
+  	font-size:40px;
+  	font-family:fantasy;
+  	color:blue;
+  	background: url("mobile-car-wallpapers-47-awesome-hd-car-wallpapers-for-mobile-full-hd-wallpapers.jpg");
+  	background-size: cover;
+  	text-align: center;
+  	color: white;
+}
+
+  	.list {
+  		width: 5%;
+  		margin: 0 auto;
+  	}
+
+  	a {
+  		font-size: 80px;
+  	}
